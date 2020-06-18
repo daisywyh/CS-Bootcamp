@@ -1,7 +1,7 @@
 import random
 #import the random library
 score = 0
-#define score, set to 0
+#define score, set it to 0
 
 for i in range(10):
 #for loop with iterator i, allows us to repeat the questions 10 times
